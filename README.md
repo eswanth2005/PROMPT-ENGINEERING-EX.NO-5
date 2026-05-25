@@ -191,4 +191,5 @@ Different prompting techniques significantly affect the quality of responses.
 * **Chain-of-thought prompts** produce the most detailed and logically structured responses.
 
 
-# RESULT: The prompt for the above said problem executed successfully
+# RESULT: 
+The prompt for the above said problem executed successfully
